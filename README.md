@@ -21,4 +21,4 @@ integrity="sha284-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkF0JwJ8ERdknLP
 crossorigin="anonymous">
 ```
 ## Использование
-Все возможности по использованию описаны в [официальной документации](https://getbootstrap.com/docs/4.1/getting-started/introduction/).
+Все возможности по использованию описаны в [официальной документации](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
